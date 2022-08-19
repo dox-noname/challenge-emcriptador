@@ -317,7 +317,7 @@ form{
 /*mobile*/
 
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 430px){
 header{
 	display: flex;
 	justify-content: flex-start;
